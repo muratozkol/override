@@ -1,0 +1,35 @@
+C:\Users\A-101\Desktop\c# projeleri\dersTekrar\dersTekrar\obj\Debug\net6.0-windows\dersTekrar.csproj.AssemblyReference.cache
+C:\Users\A-101\Desktop\c# projeleri\dersTekrar\dersTekrar\obj\Debug\net6.0-windows\dersTekrar.Form1.resources
+C:\Users\A-101\Desktop\c# projeleri\dersTekrar\dersTekrar\obj\Debug\net6.0-windows\dersTekrar.csproj.GenerateResource.cache
+C:\Users\A-101\Desktop\c# projeleri\dersTekrar\dersTekrar\obj\Debug\net6.0-windows\dersTekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A-101\Desktop\c# projeleri\dersTekrar\dersTekrar\obj\Debug\net6.0-windows\dersTekrar.AssemblyInfoInputs.cache
+C:\Users\A-101\Desktop\c# projeleri\dersTekrar\dersTekrar\obj\Debug\net6.0-windows\dersTekrar.AssemblyInfo.cs
+C:\Users\A-101\Desktop\c# projeleri\dersTekrar\dersTekrar\obj\Debug\net6.0-windows\dersTekrar.csproj.CoreCompileInputs.cache
+C:\Users\A-101\Desktop\c# projeleri\dersTekrar\dersTekrar\bin\Debug\net6.0-windows\dersTekrar.exe
+C:\Users\A-101\Desktop\c# projeleri\dersTekrar\dersTekrar\bin\Debug\net6.0-windows\dersTekrar.deps.json
+C:\Users\A-101\Desktop\c# projeleri\dersTekrar\dersTekrar\bin\Debug\net6.0-windows\dersTekrar.runtimeconfig.json
+C:\Users\A-101\Desktop\c# projeleri\dersTekrar\dersTekrar\bin\Debug\net6.0-windows\dersTekrar.dll
+C:\Users\A-101\Desktop\c# projeleri\dersTekrar\dersTekrar\bin\Debug\net6.0-windows\dersTekrar.pdb
+C:\Users\A-101\Desktop\c# projeleri\dersTekrar\dersTekrar\obj\Debug\net6.0-windows\dersTekrar.dll
+C:\Users\A-101\Desktop\c# projeleri\dersTekrar\dersTekrar\obj\Debug\net6.0-windows\refint\dersTekrar.dll
+C:\Users\A-101\Desktop\c# projeleri\dersTekrar\dersTekrar\obj\Debug\net6.0-windows\dersTekrar.pdb
+C:\Users\A-101\Desktop\c# projeleri\dersTekrar\dersTekrar\obj\Debug\net6.0-windows\dersTekrar.genruntimeconfig.cache
+C:\Users\A-101\Desktop\c# projeleri\dersTekrar\dersTekrar\obj\Debug\net6.0-windows\ref\dersTekrar.dll
+C:\Users\MURAT\Desktop\ders1\dersTekrar\dersTekrar\obj\Debug\net6.0-windows\dersTekrar.csproj.AssemblyReference.cache
+C:\Users\MURAT\Desktop\ders1\dersTekrar\dersTekrar\obj\Debug\net6.0-windows\dersTekrar.Form1.resources
+C:\Users\MURAT\Desktop\ders1\dersTekrar\dersTekrar\obj\Debug\net6.0-windows\dersTekrar.csproj.GenerateResource.cache
+C:\Users\MURAT\Desktop\ders1\dersTekrar\dersTekrar\obj\Debug\net6.0-windows\dersTekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MURAT\Desktop\ders1\dersTekrar\dersTekrar\obj\Debug\net6.0-windows\dersTekrar.AssemblyInfoInputs.cache
+C:\Users\MURAT\Desktop\ders1\dersTekrar\dersTekrar\obj\Debug\net6.0-windows\dersTekrar.AssemblyInfo.cs
+C:\Users\MURAT\Desktop\ders1\dersTekrar\dersTekrar\obj\Debug\net6.0-windows\dersTekrar.csproj.CoreCompileInputs.cache
+C:\Users\MURAT\Desktop\ders1\dersTekrar\dersTekrar\obj\Debug\net6.0-windows\dersTekrar.dll
+C:\Users\MURAT\Desktop\ders1\dersTekrar\dersTekrar\obj\Debug\net6.0-windows\refint\dersTekrar.dll
+C:\Users\MURAT\Desktop\ders1\dersTekrar\dersTekrar\obj\Debug\net6.0-windows\dersTekrar.pdb
+C:\Users\MURAT\Desktop\ders1\dersTekrar\dersTekrar\bin\Debug\net6.0-windows\dersTekrar.exe
+C:\Users\MURAT\Desktop\ders1\dersTekrar\dersTekrar\bin\Debug\net6.0-windows\dersTekrar.deps.json
+C:\Users\MURAT\Desktop\ders1\dersTekrar\dersTekrar\bin\Debug\net6.0-windows\dersTekrar.runtimeconfig.json
+C:\Users\MURAT\Desktop\ders1\dersTekrar\dersTekrar\bin\Debug\net6.0-windows\dersTekrar.dll
+C:\Users\MURAT\Desktop\ders1\dersTekrar\dersTekrar\bin\Debug\net6.0-windows\dersTekrar.pdb
+C:\Users\MURAT\Desktop\ders1\dersTekrar\dersTekrar\obj\Debug\net6.0-windows\dersTekrar.genruntimeconfig.cache
+C:\Users\MURAT\Desktop\ders1\dersTekrar\dersTekrar\obj\Debug\net6.0-windows\ref\dersTekrar.dll
+C:\Users\MURAT\Desktop\ders1\dersTekrar\dersTekrar\obj\Debug\net6.0-windows\dersTekrar.Properties.Resources.resources
